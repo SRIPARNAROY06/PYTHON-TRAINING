@@ -66,3 +66,17 @@ for i in range (10):
         continue
     print(i)
     
+#list
+numbers=[10,20,30,40]
+names=["Abdullah", "Rahul", "Neha"]
+mixed=[10, "hello", 3.5, True]
+
+print(numbers)
+print(names)
+print(mixed)
+
+
+fruits=["apple", "banana", "orange", "cherry"]
+print(fruits[0])#apple
+print(fruits[1])#banana
+print(fruits[-1])#cherry
