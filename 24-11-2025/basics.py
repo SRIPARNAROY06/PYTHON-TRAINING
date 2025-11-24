@@ -80,3 +80,16 @@ fruits=["apple", "banana", "orange", "cherry"]
 print(fruits[0])#apple
 print(fruits[1])#banana
 print(fruits[-1])#cherry
+
+
+#modifying a list
+fruits=["apple", "banana", "orange"]
+fruits[1]= "grapes"
+print(fruits)
+
+fruits.append("mango")
+print(fruits)
+
+
+fruits.insert(1, "kiwi")
+print(fruits)
