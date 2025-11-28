@@ -1,0 +1,5 @@
+LOG SUMMARY
+--------------------
+ERROR lines: 2
+WARNING lines: 1
+INFO lines: 2
