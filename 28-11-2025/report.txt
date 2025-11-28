@@ -1,0 +1,5 @@
+EXPENSE REPORT
+Item: Groceries Amount: 1200 
+Item: Milk Amount: 100 
+Item: Electricity Bill Amount: 950 
+TOTAL EXPENSE REPORT: 2250 
