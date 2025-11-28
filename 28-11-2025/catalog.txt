@@ -1,0 +1,6 @@
+Product             Price
+-------------------------
+Laptop              55000
+Mouse                 800
+Keyboard             1500
+Monitor             12000
