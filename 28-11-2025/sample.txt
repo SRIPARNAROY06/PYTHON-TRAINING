@@ -1,0 +1,5 @@
+Line 1: Hello
+Line 2: Welcome to Python
+Line 3: File handling is easy
+Line 4: Practice makes perfect
+Line 5: End of file
