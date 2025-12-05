@@ -1,0 +1,24 @@
+{
+  "customer": {
+    "name": "Rahul Sharma",
+    "phone": "9000000001"
+  },
+  "items": [
+    {
+      "sku": "P1001",
+      "qty": 3,
+      "discount_pct": 0
+    },
+    {
+      "sku": "P1003",
+      "qty": 1,
+      "discount_pct": 5
+    },
+    {
+      "sku": "P1004",
+      "qty": 2,
+      "discount_pct": 10
+    }
+  ],
+  "global_discount_pct": 2
+}
