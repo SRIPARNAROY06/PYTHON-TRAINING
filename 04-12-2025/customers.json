@@ -1,0 +1,402 @@
+[
+  {
+    "customer_id":"CUST1000",
+    "customer_name":"Aarav Agarwal",
+    "email":"aarav.agarwal100@example.com",
+    "segment":"Retail",
+    "city":"Pune",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1001",
+    "customer_name":"Kiara Sharma",
+    "email":"kiara.sharma101@example.com",
+    "segment":"Retail",
+    "city":"Pune",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1002",
+    "customer_name":"Dhruv Mukherjee",
+    "email":"dhruv.mukherjee102@example.com",
+    "segment":"Retail",
+    "city":"Bengaluru",
+    "state":"WB"
+  },
+  {
+    "customer_id":"CUST1003",
+    "customer_name":"Siya Verma",
+    "email":"siya.verma103@example.com",
+    "segment":"Retail",
+    "city":"Bengaluru",
+    "state":"KA"
+  },
+  {
+    "customer_id":"CUST1004",
+    "customer_name":"Arjun Verma",
+    "email":"arjun.verma104@example.com",
+    "segment":"Retail",
+    "city":"Kolkata",
+    "state":"TS"
+  },
+  {
+    "customer_id":"CUST1005",
+    "customer_name":"Arjun Gupta",
+    "email":"arjun.gupta105@example.com",
+    "segment":"Retail",
+    "city":"Chennai",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1006",
+    "customer_name":"Anika Das",
+    "email":"anika.das106@example.com",
+    "segment":"SMB",
+    "city":"Kolkata",
+    "state":"GJ"
+  },
+  {
+    "customer_id":"CUST1007",
+    "customer_name":"Ishaan Mukherjee",
+    "email":"ishaan.mukherjee107@example.com",
+    "segment":"SMB",
+    "city":"Mumbai",
+    "state":"DL"
+  },
+  {
+    "customer_id":"CUST1008",
+    "customer_name":"Aditi Gupta",
+    "email":"aditi.gupta108@example.com",
+    "segment":"Retail",
+    "city":"Ahmedabad",
+    "state":"KA"
+  },
+  {
+    "customer_id":"CUST1009",
+    "customer_name":"Riya Gupta",
+    "email":"riya.gupta109@example.com",
+    "segment":"SMB",
+    "city":"Delhi",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1010",
+    "customer_name":"Aarav Iyer",
+    "email":"aarav.iyer110@example.com",
+    "segment":"Retail",
+    "city":"Bengaluru",
+    "state":"DL"
+  },
+  {
+    "customer_id":"CUST1011",
+    "customer_name":"Siya Mukherjee",
+    "email":"siya.mukherjee111@example.com",
+    "segment":"SMB",
+    "city":"Hyderabad",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1012",
+    "customer_name":"Vihaan Gupta",
+    "email":"vihaan.gupta112@example.com",
+    "segment":"Retail",
+    "city":"Pune",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1013",
+    "customer_name":"Aditi Mukherjee",
+    "email":"aditi.mukherjee113@example.com",
+    "segment":"Retail",
+    "city":"Ahmedabad",
+    "state":"TS"
+  },
+  {
+    "customer_id":"CUST1014",
+    "customer_name":"Ishaan Chatterjee",
+    "email":"ishaan.chatterjee114@example.com",
+    "segment":"Retail",
+    "city":"Ahmedabad",
+    "state":"DL"
+  },
+  {
+    "customer_id":"CUST1015",
+    "customer_name":"Rohan Agarwal",
+    "email":"rohan.agarwal115@example.com",
+    "segment":"Retail",
+    "city":"Delhi",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1016",
+    "customer_name":"Ishaan Das",
+    "email":"ishaan.das116@example.com",
+    "segment":"Retail",
+    "city":"Chennai",
+    "state":"KA"
+  },
+  {
+    "customer_id":"CUST1017",
+    "customer_name":"Reyansh Mukherjee",
+    "email":"reyansh.mukherjee117@example.com",
+    "segment":"SMB",
+    "city":"Hyderabad",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1018",
+    "customer_name":"Vivaan Chatterjee",
+    "email":"vivaan.chatterjee118@example.com",
+    "segment":"Enterprise",
+    "city":"Mumbai",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1019",
+    "customer_name":"Vihaan Iyer",
+    "email":"vihaan.iyer119@example.com",
+    "segment":"Retail",
+    "city":"Mumbai",
+    "state":"GJ"
+  },
+  {
+    "customer_id":"CUST1020",
+    "customer_name":"Aditi Mukherjee",
+    "email":"aditi.mukherjee120@example.com",
+    "segment":"Retail",
+    "city":"Chennai",
+    "state":"DL"
+  },
+  {
+    "customer_id":"CUST1021",
+    "customer_name":"Vihaan Verma",
+    "email":"vihaan.verma121@example.com",
+    "segment":"Retail",
+    "city":"Hyderabad",
+    "state":"TS"
+  },
+  {
+    "customer_id":"CUST1022",
+    "customer_name":"Aarav Patel",
+    "email":"aarav.patel122@example.com",
+    "segment":"Retail",
+    "city":"Delhi",
+    "state":"DL"
+  },
+  {
+    "customer_id":"CUST1023",
+    "customer_name":"Aarav Iyer",
+    "email":"aarav.iyer123@example.com",
+    "segment":"Retail",
+    "city":"Delhi",
+    "state":"WB"
+  },
+  {
+    "customer_id":"CUST1024",
+    "customer_name":"Ishaan Verma",
+    "email":"ishaan.verma124@example.com",
+    "segment":"Retail",
+    "city":"Hyderabad",
+    "state":"WB"
+  },
+  {
+    "customer_id":"CUST1025",
+    "customer_name":"Mira Sharma",
+    "email":"mira.sharma125@example.com",
+    "segment":"Retail",
+    "city":"Mumbai",
+    "state":"GJ"
+  },
+  {
+    "customer_id":"CUST1026",
+    "customer_name":"Rohan Patel",
+    "email":"rohan.patel126@example.com",
+    "segment":"SMB",
+    "city":"Bengaluru",
+    "state":"DL"
+  },
+  {
+    "customer_id":"CUST1027",
+    "customer_name":"Isha Chatterjee",
+    "email":"isha.chatterjee127@example.com",
+    "segment":"SMB",
+    "city":"Mumbai",
+    "state":"WB"
+  },
+  {
+    "customer_id":"CUST1028",
+    "customer_name":"Siya Das",
+    "email":"siya.das128@example.com",
+    "segment":"Retail",
+    "city":"Pune",
+    "state":"KA"
+  },
+  {
+    "customer_id":"CUST1029",
+    "customer_name":"Anaya Agarwal",
+    "email":"anaya.agarwal129@example.com",
+    "segment":"Retail",
+    "city":"Delhi",
+    "state":"DL"
+  },
+  {
+    "customer_id":"CUST1030",
+    "customer_name":"Kabir Das",
+    "email":"kabir.das130@example.com",
+    "segment":"Retail",
+    "city":"Hyderabad",
+    "state":"TS"
+  },
+  {
+    "customer_id":"CUST1031",
+    "customer_name":"Advait Gupta",
+    "email":"advait.gupta131@example.com",
+    "segment":"SMB",
+    "city":"Delhi",
+    "state":"GJ"
+  },
+  {
+    "customer_id":"CUST1032",
+    "customer_name":"Anika Mukherjee",
+    "email":"anika.mukherjee132@example.com",
+    "segment":"Retail",
+    "city":"Hyderabad",
+    "state":"GJ"
+  },
+  {
+    "customer_id":"CUST1033",
+    "customer_name":"Anaya Gupta",
+    "email":"anaya.gupta133@example.com",
+    "segment":"Retail",
+    "city":"Pune",
+    "state":"WB"
+  },
+  {
+    "customer_id":"CUST1034",
+    "customer_name":"Vihaan Chatterjee",
+    "email":"vihaan.chatterjee134@example.com",
+    "segment":"Retail",
+    "city":"Bengaluru",
+    "state":"WB"
+  },
+  {
+    "customer_id":"CUST1035",
+    "customer_name":"Kabir Mukherjee",
+    "email":"kabir.mukherjee135@example.com",
+    "segment":"SMB",
+    "city":"Pune",
+    "state":"TN"
+  },
+  {
+    "customer_id":"CUST1036",
+    "customer_name":"Ishaan Chatterjee",
+    "email":"ishaan.chatterjee136@example.com",
+    "segment":"Enterprise",
+    "city":"Mumbai",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1037",
+    "customer_name":"Anika Gupta",
+    "email":"anika.gupta137@example.com",
+    "segment":"Retail",
+    "city":"Hyderabad",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1038",
+    "customer_name":"Dhruv Mukherjee",
+    "email":"dhruv.mukherjee138@example.com",
+    "segment":"SMB",
+    "city":"Hyderabad",
+    "state":"GJ"
+  },
+  {
+    "customer_id":"CUST1039",
+    "customer_name":"Kabir Iyer",
+    "email":"kabir.iyer139@example.com",
+    "segment":"Retail",
+    "city":"Delhi",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1040",
+    "customer_name":"Kabir Sharma",
+    "email":"kabir.sharma140@example.com",
+    "segment":"SMB",
+    "city":"Bengaluru",
+    "state":"TN"
+  },
+  {
+    "customer_id":"CUST1041",
+    "customer_name":"Mira Iyer",
+    "email":"mira.iyer141@example.com",
+    "segment":"SMB",
+    "city":"Ahmedabad",
+    "state":"TN"
+  },
+  {
+    "customer_id":"CUST1042",
+    "customer_name":"Dhruv Mukherjee",
+    "email":"dhruv.mukherjee142@example.com",
+    "segment":"SMB",
+    "city":"Mumbai",
+    "state":"MH"
+  },
+  {
+    "customer_id":"CUST1043",
+    "customer_name":"Advait Chatterjee",
+    "email":"advait.chatterjee143@example.com",
+    "segment":"Retail",
+    "city":"Pune",
+    "state":"GJ"
+  },
+  {
+    "customer_id":"CUST1044",
+    "customer_name":"Dhruv Verma",
+    "email":"dhruv.verma144@example.com",
+    "segment":"Retail",
+    "city":"Pune",
+    "state":"TS"
+  },
+  {
+    "customer_id":"CUST1045",
+    "customer_name":"Sara Banerjee",
+    "email":"sara.banerjee145@example.com",
+    "segment":"Retail",
+    "city":"Hyderabad",
+    "state":"KA"
+  },
+  {
+    "customer_id":"CUST1046",
+    "customer_name":"Ishaan Sharma",
+    "email":"ishaan.sharma146@example.com",
+    "segment":"Retail",
+    "city":"Bengaluru",
+    "state":"KA"
+  },
+  {
+    "customer_id":"CUST1047",
+    "customer_name":"Reyansh Sharma",
+    "email":"reyansh.sharma147@example.com",
+    "segment":"SMB",
+    "city":"Hyderabad",
+    "state":"WB"
+  },
+  {
+    "customer_id":"CUST1048",
+    "customer_name":"Mira Patel",
+    "email":"mira.patel148@example.com",
+    "segment":"Retail",
+    "city":"Kolkata",
+    "state":"TN"
+  },
+  {
+    "customer_id":"CUST1049",
+    "customer_name":"Sara Patel",
+    "email":"sara.patel149@example.com",
+    "segment":"Retail",
+    "city":"Mumbai",
+    "state":"DL"
+  }
+]

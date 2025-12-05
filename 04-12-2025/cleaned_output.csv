@@ -1,0 +1,180 @@
+order_id,customer_id,order_date,product_name,category,unit_price,quantity,status,line_amount
+ORD202500007,CUST1029,2025-01-01,Phone Case,Accessories,399.0,1,Cancelled,399.0
+ORD202500093,CUST1025,2025-01-01,HDMI Cable,Electronics,399.0,1,Completed,399.0
+ORD202500001,CUST1022,2025-01-03,HDMI Cable,Electronics,399.0,1,Completed,399.0
+ORD202500060,CUST1019,2025-01-05,HDMI Cable,Electronics,399.0,2,Completed,798.0
+ORD202500050,CUST1016,2025-01-06,Gel Pen Pack (10),Stationery,149.0,1,Completed,149.0
+ORD202500091,CUST1013,2025-01-06,Laptop Stand,Accessories,1499.0,1,Completed,1499.0
+ORD202500012,CUST1009,2025-01-07,Backpack,Accessories,1999.0,1,Returned,1999.0
+ORD202500049,CUST1018,2025-01-07,HDMI Cable,Electronics,399.0,2,Returned,798.0
+ORD202500026,CUST1003,2025-01-14,Laptop Stand,Accessories,1499.0,1,Completed,1499.0
+ORD202500019,CUST1047,2025-01-15,Laptop Stand,Accessories,1499.0,1,Completed,1499.0
+ORD202500078,CUST1035,2025-01-15,Coffee Mug,Home & Kitchen,349.0,1,Completed,349.0
+ORD202500012,CUST1017,2025-01-17,Power Bank (10k mAh),Electronics,1799.0,1,Returned,1799.0
+ORD202500044,CUST1043,2025-01-19,USB-C Cable,Electronics,299.0,1,Completed,299.0
+ORD202500051,CUST1043,2025-01-19,Laptop Stand,Accessories,1499.0,2,Cancelled,2998.0
+ORD202500053,CUST1045,2025-01-23,USB-C Cable,Electronics,299.0,3,Completed,897.0
+ORD202500064,CUST1036,2025-01-24,Coffee Mug,Home & Kitchen,349.0,5,Completed,1745.0
+ORD202500050,CUST1022,2025-02-01,Water Bottle (1L),Home & Kitchen,499.0,5,Completed,2495.0
+ORD202500089,CUST1043,2025-02-02,Phone Case,Accessories,399.0,4,Completed,1596.0
+ORD202500093,CUST1028,2025-02-10,Desk Lamp,Home & Kitchen,1299.0,3,Completed,3897.0
+ORD202500025,CUST1037,2025-02-12,Coffee Mug,Home & Kitchen,349.0,4,Completed,1396.0
+ORD202500092,CUST1026,2025-02-13,Notebook (A5),Stationery,99.0,1,Completed,99.0
+ORD202500076,CUST1029,2025-02-15,Desk Organizer,Home & Kitchen,899.0,3,Completed,2697.0
+ORD202500018,CUST1017,2025-02-16,Laptop Stand,Accessories,1499.0,1,Completed,1499.0
+ORD202500081,CUST1037,2025-02-18,Whiteboard Marker (4),Stationery,129.0,4,Completed,516.0
+ORD202500011,CUST1049,2025-02-21,Desk Lamp,Home & Kitchen,1299.0,4,Returned,5196.0
+ORD202500041,CUST1013,2025-02-25,Desk Organizer,Home & Kitchen,899.0,1,Completed,899.0
+ORD202500088,CUST1010,2025-02-25,Desk Lamp,Home & Kitchen,1299.0,1,Completed,1299.0
+ORD202500085,CUST1012,2025-03-01,Power Bank (10k mAh),Electronics,1799.0,1,Cancelled,1799.0
+ORD202500060,CUST1034,2025-03-03,Backpack,Accessories,1999.0,1,Completed,1999.0
+ORD202500025,CUST1001,2025-03-05,HDMI Cable,Electronics,399.0,1,Completed,399.0
+ORD202500008,CUST1013,2025-03-06,Whiteboard Marker (4),Stationery,129.0,1,Completed,129.0
+ORD202500023,CUST1005,2025-03-06,Desk Lamp,Home & Kitchen,1299.0,1,Completed,1299.0
+ORD202500026,CUST1028,2025-03-09,Power Bank (10k mAh),Electronics,1799.0,1,Completed,1799.0
+ORD202500036,CUST1011,2025-03-09,Backpack,Accessories,1999.0,1,Returned,1999.0
+ORD202500039,CUST1019,2025-03-09,Gel Pen Pack (10),Stationery,149.0,2,Completed,298.0
+ORD202500084,CUST1040,2025-03-11,USB-C Cable,Electronics,299.0,1,Completed,299.0
+ORD202500092,CUST1049,2025-03-12,Desk Lamp,Home & Kitchen,1299.0,2,Completed,2598.0
+ORD202500060,CUST1036,2025-03-16,Wireless Keyboard,Electronics,1599.0,1,Cancelled,1599.0
+ORD202500072,CUST1030,2025-03-16,Laptop Stand,Accessories,1499.0,1,Cancelled,1499.0
+ORD202500010,CUST1033,2025-03-17,Notebook (A5),Stationery,99.0,2,Completed,198.0
+ORD202500030,CUST1047,2025-03-19,Coffee Mug,Home & Kitchen,349.0,1,Completed,349.0
+ORD202500047,CUST1003,2025-03-19,Laptop Stand,Accessories,1499.0,4,Completed,5996.0
+ORD202500062,CUST1005,2025-03-21,USB-C Cable,Electronics,299.0,1,Completed,299.0
+ORD202500026,CUST1010,2025-03-26,Desk Lamp,Home & Kitchen,1299.0,3,Returned,3897.0
+ORD202500085,CUST1029,2025-03-26,Notebook (A5),Stationery,99.0,3,Completed,297.0
+ORD202500058,CUST1006,2025-03-30,HDMI Cable,Electronics,399.0,1,Returned,399.0
+ORD202500044,CUST1040,2025-03-31,Laptop Stand,Accessories,1499.0,1,Cancelled,1499.0
+ORD202500018,CUST1046,2025-04-01,Desk Lamp,Home & Kitchen,1299.0,2,Completed,2598.0
+ORD202500038,CUST1042,2025-04-04,Water Bottle (1L),Home & Kitchen,499.0,3,Completed,1497.0
+ORD202500050,CUST1019,2025-04-05,Power Bank (10k mAh),Electronics,1799.0,1,Completed,1799.0
+ORD202500005,CUST1037,2025-04-06,Bluetooth Headphones,Electronics,2999.0,1,Cancelled,2999.0
+ORD202500048,CUST1009,2025-04-06,Laptop Stand,Accessories,1499.0,1,Returned,1499.0
+ORD202500037,CUST1023,2025-04-07,Wireless Mouse,Electronics,899.0,1,Completed,899.0
+ORD202500003,CUST1035,2025-04-10,Wireless Mouse,Electronics,899.0,3,Completed,2697.0
+ORD202500085,CUST1026,2025-04-10,Desk Organizer,Home & Kitchen,899.0,5,Cancelled,4495.0
+ORD202500007,CUST1010,2025-04-12,Wireless Mouse,Electronics,899.0,4,Completed,3596.0
+ORD202500007,CUST1030,2025-04-13,Phone Case,Accessories,399.0,1,Completed,399.0
+ORD202500067,CUST1041,2025-04-14,Desk Organizer,Home & Kitchen,899.0,4,Cancelled,3596.0
+ORD202500091,CUST1037,2025-04-14,Water Bottle (1L),Home & Kitchen,499.0,1,Cancelled,499.0
+ORD202500025,CUST1008,2025-04-16,Wireless Mouse,Electronics,899.0,2,Returned,1798.0
+ORD202500064,CUST1022,2025-04-16,USB-C Cable,Electronics,299.0,1,Completed,299.0
+ORD202500011,CUST1013,2025-04-17,Bluetooth Headphones,Electronics,2999.0,2,Completed,5998.0
+ORD202500085,CUST1038,2025-04-21,Water Bottle (1L),Home & Kitchen,499.0,1,Completed,499.0
+ORD202500045,CUST1046,2025-04-23,Gel Pen Pack (10),Stationery,149.0,1,Completed,149.0
+ORD202500006,CUST1017,2025-04-24,Desk Lamp,Home & Kitchen,1299.0,1,Completed,1299.0
+ORD202500023,CUST1045,2025-05-03,Coffee Mug,Home & Kitchen,349.0,2,Completed,698.0
+ORD202500031,CUST1034,2025-05-04,Power Bank (10k mAh),Electronics,1799.0,1,Returned,1799.0
+ORD202500093,CUST1028,2025-05-04,Whiteboard Marker (4),Stationery,129.0,1,Completed,129.0
+ORD202500026,CUST1003,2025-05-06,Backpack,Accessories,1999.0,1,Completed,1999.0
+ORD202500094,CUST1002,2025-05-08,Desk Organizer,Home & Kitchen,899.0,1,Completed,899.0
+ORD202500060,CUST1044,2025-05-09,Backpack,Accessories,1999.0,2,Completed,3998.0
+ORD202500050,CUST1002,2025-05-10,Water Bottle (1L),Home & Kitchen,499.0,1,Completed,499.0
+ORD202500072,CUST1002,2025-05-16,Surge Protector,Electronics,899.0,2,Cancelled,1798.0
+ORD202500076,CUST1022,2025-05-17,Backpack,Accessories,1999.0,3,Cancelled,5997.0
+ORD202500022,CUST1021,2025-05-22,Desk Organizer,Home & Kitchen,899.0,1,Completed,899.0
+ORD202500015,CUST1036,2025-05-23,Wireless Mouse,Electronics,899.0,1,Completed,899.0
+ORD202500059,CUST1018,2025-05-24,Laptop Stand,Accessories,1499.0,2,Completed,2998.0
+ORD202500084,CUST1014,2025-05-25,Whiteboard Marker (4),Stationery,129.0,2,Completed,258.0
+ORD202500066,CUST1034,2025-05-28,Water Bottle (1L),Home & Kitchen,499.0,1,Completed,499.0
+ORD202500073,CUST1031,2025-05-31,Backpack,Accessories,1999.0,1,Completed,1999.0
+ORD202500052,CUST1047,2025-06-04,Power Bank (10k mAh),Electronics,1799.0,1,Cancelled,1799.0
+ORD202500092,CUST1006,2025-06-04,Water Bottle (1L),Home & Kitchen,499.0,1,Completed,499.0
+ORD202500022,CUST1006,2025-06-08,HDMI Cable,Electronics,399.0,2,Completed,798.0
+ORD202500029,CUST1030,2025-06-10,Notebook (A5),Stationery,99.0,1,Completed,99.0
+ORD202500006,CUST1011,2025-06-12,Desk Lamp,Home & Kitchen,1299.0,2,Completed,2598.0
+ORD202500067,CUST1018,2025-06-13,Sticky Notes (100),Stationery,79.0,1,Cancelled,79.0
+ORD202500062,CUST1030,2025-06-17,Coffee Mug,Home & Kitchen,349.0,3,Completed,1047.0
+ORD202500006,CUST1031,2025-06-21,USB-C Cable,Electronics,299.0,4,Cancelled,1196.0
+ORD202500016,CUST1041,2025-06-21,Phone Case,Accessories,399.0,1,Returned,399.0
+ORD202500073,CUST1034,2025-06-21,Surge Protector,Electronics,899.0,2,Completed,1798.0
+ORD202500065,CUST1012,2025-06-22,Desk Organizer,Home & Kitchen,899.0,3,Cancelled,2697.0
+ORD202500028,CUST1032,2025-06-24,HDMI Cable,Electronics,399.0,1,Completed,399.0
+ORD202500035,CUST1011,2025-06-24,Backpack,Accessories,1999.0,1,Completed,1999.0
+ORD202500018,CUST1029,2025-06-26,Laptop Stand,Accessories,1499.0,4,Cancelled,5996.0
+ORD202500070,CUST1028,2025-06-29,HDMI Cable,Electronics,399.0,1,Cancelled,399.0
+ORD202500069,CUST1048,2025-07-01,Notebook (A5),Stationery,99.0,2,Completed,198.0
+ORD202500014,CUST1008,2025-07-09,Bluetooth Headphones,Electronics,2999.0,2,Returned,5998.0
+ORD202500043,CUST1009,2025-07-11,HDMI Cable,Electronics,399.0,1,Completed,399.0
+ORD202500074,CUST1011,2025-07-11,HDMI Cable,Electronics,399.0,3,Completed,1197.0
+ORD202500005,CUST1013,2025-07-13,Gel Pen Pack (10),Stationery,149.0,3,Completed,447.0
+ORD202500025,CUST1007,2025-07-16,Desk Lamp,Home & Kitchen,1299.0,1,Completed,1299.0
+ORD202500012,CUST1013,2025-07-19,Power Bank (10k mAh),Electronics,1799.0,2,Completed,3598.0
+ORD202500038,CUST1028,2025-07-19,Water Bottle (1L),Home & Kitchen,499.0,3,Completed,1497.0
+ORD202500046,CUST1016,2025-08-05,Phone Case,Accessories,399.0,4,Completed,1596.0
+ORD202500061,CUST1006,2025-08-07,Surge Protector,Electronics,899.0,2,Completed,1798.0
+ORD202500080,CUST1032,2025-08-07,Laptop Stand,Accessories,1499.0,3,Completed,4497.0
+ORD202500031,CUST1029,2025-08-08,Laptop Stand,Accessories,1499.0,2,Completed,2998.0
+ORD202500087,CUST1041,2025-08-08,Backpack,Accessories,1999.0,2,Cancelled,3998.0
+ORD202500010,CUST1029,2025-08-09,Backpack,Accessories,1999.0,2,Completed,3998.0
+ORD202500053,CUST1029,2025-08-09,Sticky Notes (100),Stationery,79.0,2,Completed,158.0
+ORD202500062,CUST1030,2025-08-11,Desk Lamp,Home & Kitchen,1299.0,2,Completed,2598.0
+ORD202500050,CUST1025,2025-08-14,Desk Lamp,Home & Kitchen,1299.0,2,Completed,2598.0
+ORD202500045,CUST1004,2025-08-18,Laptop Stand,Accessories,1499.0,1,Cancelled,1499.0
+ORD202500012,CUST1048,2025-08-21,Bluetooth Headphones,Electronics,2999.0,1,Returned,2999.0
+ORD202500089,CUST1016,2025-08-21,Gel Pen Pack (10),Stationery,149.0,1,Cancelled,149.0
+ORD202500078,CUST1012,2025-08-23,Coffee Mug,Home & Kitchen,349.0,1,Completed,349.0
+ORD202500023,CUST1029,2025-08-24,Wireless Mouse,Electronics,899.0,5,Completed,4495.0
+ORD202500053,CUST1019,2025-08-26,Sticky Notes (100),Stationery,79.0,1,Cancelled,79.0
+ORD202500021,CUST1039,2025-08-28,Laptop Stand,Accessories,1499.0,1,Cancelled,1499.0
+ORD202500089,CUST1006,2025-08-29,Backpack,Accessories,1999.0,1,Completed,1999.0
+ORD202500024,CUST1049,2025-09-04,Laptop Stand,Accessories,1499.0,3,Completed,4497.0
+ORD202500070,CUST1033,2025-09-06,Wireless Keyboard,Electronics,1599.0,3,Completed,4797.0
+ORD202500074,CUST1033,2025-09-10,Power Bank (10k mAh),Electronics,1799.0,1,Completed,1799.0
+ORD202500088,CUST1033,2025-09-16,Bluetooth Headphones,Electronics,2999.0,1,Returned,2999.0
+ORD202500009,CUST1030,2025-09-18,Fitness Band,Electronics,3499.0,1,Completed,3499.0
+ORD202500035,CUST1008,2025-09-18,Whiteboard Marker (4),Stationery,129.0,1,Completed,129.0
+ORD202500047,CUST1025,2025-09-21,Desk Lamp,Home & Kitchen,1299.0,1,Completed,1299.0
+ORD202500053,CUST1018,2025-09-25,USB-C Cable,Electronics,299.0,2,Completed,598.0
+ORD202500067,CUST1016,2025-09-26,HDMI Cable,Electronics,399.0,2,Completed,798.0
+ORD202500019,CUST1011,2025-09-29,Power Bank (10k mAh),Electronics,1799.0,1,Returned,1799.0
+ORD202500036,CUST1040,2025-09-30,Backpack,Accessories,1999.0,1,Completed,1999.0
+ORD202500024,CUST1002,2025-10-01,Gel Pen Pack (10),Stationery,149.0,3,Completed,447.0
+ORD202500092,CUST1046,2025-10-03,USB-C Cable,Electronics,299.0,5,Cancelled,1495.0
+ORD202500063,CUST1007,2025-10-09,USB-C Cable,Electronics,299.0,1,Completed,299.0
+ORD202500038,CUST1026,2025-10-10,HDMI Cable,Electronics,399.0,2,Cancelled,798.0
+ORD202500093,CUST1018,2025-10-17,Bluetooth Headphones,Electronics,2999.0,2,Completed,5998.0
+ORD202500026,CUST1042,2025-10-26,Wireless Mouse,Electronics,899.0,2,Completed,1798.0
+ORD202500029,CUST1000,2025-10-29,Desk Lamp,Home & Kitchen,1299.0,1,Cancelled,1299.0
+ORD202500089,CUST1048,2025-10-31,Sticky Notes (100),Stationery,79.0,1,Completed,79.0
+ORD202500061,CUST1012,2025-11-01,Whiteboard Marker (4),Stationery,129.0,1,Completed,129.0
+ORD202500059,CUST1016,2025-11-06,Desk Organizer,Home & Kitchen,899.0,2,Completed,1798.0
+ORD202500038,CUST1030,2025-11-07,Gel Pen Pack (10),Stationery,149.0,1,Completed,149.0
+ORD202500067,CUST1020,2025-11-07,Surge Protector,Electronics,899.0,1,Completed,899.0
+ORD202500022,CUST1043,2025-11-11,Desk Lamp,Home & Kitchen,1299.0,5,Completed,6495.0
+ORD202500032,CUST1035,2025-11-18,HDMI Cable,Electronics,399.0,1,Completed,399.0
+ORD202500038,CUST1001,2025-11-19,Whiteboard Marker (4),Stationery,129.0,1,Completed,129.0
+ORD202500074,CUST1008,2025-11-19,HDMI Cable,Electronics,399.0,2,Completed,798.0
+ORD202500037,CUST1008,2025-11-20,Wireless Mouse,Electronics,899.0,4,Cancelled,3596.0
+ORD202500089,CUST1036,2025-11-23,Desk Organizer,Home & Kitchen,899.0,4,Cancelled,3596.0
+ORD202500088,CUST1033,2025-11-24,Wireless Mouse,Electronics,899.0,1,Completed,899.0
+ORD202500073,CUST1006,2025-11-25,Water Bottle (1L),Home & Kitchen,499.0,1,Completed,499.0
+ORD202500024,CUST1026,2025-11-27,Coffee Mug,Home & Kitchen,349.0,1,Completed,349.0
+ORD202500082,CUST1033,2025-12-01,HDMI Cable,Electronics,399.0,1,Completed,399.0
+ORD202500043,CUST1014,2025-12-02,Wireless Keyboard,Electronics,1599.0,2,Completed,3198.0
+ORD202500018,CUST1001,2025-12-03,Bluetooth Headphones,Electronics,2999.0,2,Completed,5998.0
+ORD202500048,CUST1023,2025-12-04,Desk Organizer,Home & Kitchen,899.0,1,Completed,899.0
+ORD202500066,CUST1030,2025-12-04,Gel Pen Pack (10),Stationery,149.0,1,Completed,149.0
+ORD202500021,CUST1010,2025-12-07,Water Bottle (1L),Home & Kitchen,499.0,1,Cancelled,499.0
+ORD202500015,CUST1030,2025-12-10,Surge Protector,Electronics,899.0,3,Cancelled,2697.0
+ORD202500064,CUST1017,2025-12-10,Sticky Notes (100),Stationery,79.0,3,Cancelled,237.0
+ORD202500083,CUST1020,2025-12-11,Water Bottle (1L),Home & Kitchen,499.0,1,Returned,499.0
+ORD202500072,CUST1031,2025-12-12,Phone Case,Accessories,399.0,3,Completed,1197.0
+ORD202500067,CUST1030,2025-12-13,Wireless Mouse,Electronics,899.0,1,Returned,899.0
+ORD202500021,CUST1044,2025-12-14,Backpack,Accessories,1999.0,1,Completed,1999.0
+ORD202500034,CUST1005,2025-12-15,Whiteboard Marker (4),Stationery,129.0,1,Cancelled,129.0
+ORD202500021,CUST1008,2025-12-18,Backpack,Accessories,1999.0,1,Cancelled,1999.0
+ORD202500048,CUST1018,2025-12-18,Sticky Notes (100),Stationery,79.0,2,Returned,158.0
+ORD202500067,CUST1026,2025-12-21,Backpack,Accessories,1999.0,3,Completed,5997.0
+ORD202500003,CUST1000,2025-12-22,Whiteboard Marker (4),Stationery,129.0,4,Completed,516.0
+ORD202500017,CUST1015,2025-12-22,Fitness Band,Electronics,3499.0,1,Completed,3499.0
+ORD202500042,CUST1036,2025-12-22,Desk Lamp,Home & Kitchen,1299.0,1,Completed,1299.0
+ORD202500067,CUST1016,2025-12-23,Desk Organizer,Home & Kitchen,899.0,2,Cancelled,1798.0
+ORD202500084,CUST1021,2025-12-24,Notebook (A5),Stationery,99.0,2,Returned,198.0
+ORD202500057,CUST1036,2025-12-25,Wireless Keyboard,Electronics,1599.0,2,Cancelled,3198.0
+ORD202500062,CUST1030,2025-12-25,Phone Case,Accessories,399.0,2,Completed,798.0
+ORD202500015,CUST1014,2025-12-27,Desk Lamp,Home & Kitchen,1299.0,1,Completed,1299.0
+ORD202500035,CUST1044,2025-12-27,Gel Pen Pack (10),Stationery,149.0,1,Cancelled,149.0
+ORD202500065,CUST1025,2025-12-28,Coffee Mug,Home & Kitchen,349.0,2,Completed,698.0
+ORD202500028,CUST1047,2025-12-30,Laptop Stand,Accessories,1499.0,1,Completed,1499.0
