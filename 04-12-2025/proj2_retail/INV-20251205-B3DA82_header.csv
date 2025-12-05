@@ -1,0 +1,2 @@
+invoice_no,customer_name,customer_phone,subtotal,discount_total,tax_total,grand_total,global_discount_pct
+INV-20251205-B3DA82,Rahul Sharma,9000000001,1850.0,144.8,277.2,1982.4,2.0
