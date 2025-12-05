@@ -1,0 +1,4 @@
+emp_id,name,dept,role,salary,email,phone,hired_on
+1,Aisha Khan,HR,Generalist,45000.0,aisha@example.com,9999900001,2024-12-01
+2,Rahul Sharma,Sales,Executive,52000.0,rahul@example.com,9999900002,2025-01-12
+3,Meera Iyer,Engineering,Developer,80000.0,meera@example.com,9999900003,2025-02-05
